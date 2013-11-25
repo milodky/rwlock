@@ -1,0 +1,10 @@
+this is my little ugly read/write lock(rwlock.cpp/h)
+and main.cpp is the test file
+
+support the basic read/write functionality.
+the output of reader in main.cpp is too ugly,
+and I need another mutex to lock the screen.
+
+didn't implement it yet.
+
+hopefully done by 11/25.
